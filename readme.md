@@ -1,21 +1,20 @@
-# High Risk High Need - A report distribution process for each provider that identifies supports high risk high need patients.. !!! 
+# High Risk High Need - Fast Automated report distribution process!!!! 
+## Produces formatted reports personalized for each doctor
+## Reports on High Risk - High Need patients.. !!! 
 
 ![Code Logo](code.png)
 
-## Description
-
-## Welcome to the **  High Risk High Need ** repository! This project demonstrates how chunck reports and distribute them
+## Welcome to the **  High Risk High Need ** repository! This project automatically distributes personalized provider reports
 
 ![Developer Logo](developer.png)
 
 ## Features
-
-- Optional Steps and Techniques 
-- Dynamic and interactive 
-- Essential to Feature Engineering 
-- Includes Correlation Heatmaps
-- Automate data profiling tasks 
-- Easily find and FIX problems EARLY in the Data onboarding workflows 
+- AUtomatically chunks data for each provider
+- Automatically distributes reports  
+- Automatically Archives reports 
+- Makes excel effective and easy to use 
+- Optional data profiling tasks 
+- Elliminates hours of needless manual work 
 
 ## Notebook Features
 
