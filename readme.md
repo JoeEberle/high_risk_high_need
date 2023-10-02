@@ -1,17 +1,16 @@
-# Data Cleansing - Produces Clean and consistent data !!! 
+# High Risk High Need - A report distribution process for each provider that identifies supports high risk high need patients.. !!! 
 
 ![Code Logo](code.png)
 
 ## Description
 
-## Welcome to the ** Data Cleansing  ** repository! This project demonstrates how to establish cleanse ANY data. 
+## Welcome to the **  High Risk High Need ** repository! This project demonstrates how chunck reports and distribute them
 
 ![Developer Logo](developer.png)
 
 ## Features
 
 - Optional Steps and Techniques 
-- Profile ANY data
 - Dynamic and interactive 
 - Essential to Feature Engineering 
 - Includes Correlation Heatmaps
@@ -29,7 +28,7 @@
 
 ## Getting Started
 
-To get started with the ** Data Cleansing ** project, follow these steps:
+To get started with the ** High Risk High Need ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
