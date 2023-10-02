@@ -1,11 +1,9 @@
-# High Risk High Need - Fast Automated report distribution process!!!! 
-## Produces formatted reports personalized for each doctor
-## Reports on High Risk - High Need patients.. !!! 
-
+# High Risk High Need - Automated Report distribution process!!!! 
+### Produces formatted reports personalized for each doctor
+### Reports on High Risk - High Need patients.. !!! 
 ![Code Logo](code.png)
-
-## Welcome to the **  High Risk High Need ** repository! This project automatically distributes personalized provider reports
-
+## Welcome to the **  High Risk High Need ** repository! 
+### This project automatically distributes personalized provider reports
 ![Developer Logo](developer.png)
 
 ## Features
