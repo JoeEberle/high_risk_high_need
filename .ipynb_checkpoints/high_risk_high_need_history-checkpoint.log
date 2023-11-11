@@ -1,0 +1,28 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-11-10 12:49:36,987 - INFO - START high_risk_high_need =============================================
+2023-11-10 12:49:36,988 - INFO - START high_risk_high_need Start Time = 2023-11-10 12:49:36
+2023-11-10 12:49:36,988 - INFO - high_risk_high_need Step 0 - Initialize the configuration file parser
+2023-11-10 12:49:37,053 - INFO - high_risk_high_need - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-10 12:49:37,676 - INFO - PERFORMANCE high_risk_high_need The total process duration was:0.69
+2023-11-10 12:49:37,676 - INFO - PERFORMANCE high_risk_high_need Stop Time = 2023-11-10 12:49:37
+2023-11-10 12:49:37,676 - INFO - PERFORMANCE high_risk_high_need Short process duration less than 3 Seconds:0.69
+2023-11-10 12:49:37,676 - INFO - PERFORMANCE high_risk_high_need Performance optimization is not reccomended
+2023-11-10 12:49:37,676 - INFO - END high_risk_high_need =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-11-10 13:09:12,932 - INFO - START high_risk_high_need =============================================
+2023-11-10 13:09:12,932 - INFO - START high_risk_high_need Start Time = 2023-11-10 13:09:12
+2023-11-10 13:09:12,932 - INFO - high_risk_high_need Step 0 - Initialize the configuration file parser
+2023-11-10 13:09:12,991 - INFO - high_risk_high_need - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-11-10 13:09:13,924 - INFO - PERFORMANCE high_risk_high_need The total process duration was:0.99
+2023-11-10 13:09:13,926 - INFO - PERFORMANCE high_risk_high_need Stop Time = 2023-11-10 13:09:13
+2023-11-10 13:09:13,926 - INFO - PERFORMANCE high_risk_high_need Short process duration less than 3 Seconds:0.99
+2023-11-10 13:09:13,926 - INFO - PERFORMANCE high_risk_high_need Performance optimization is not reccomended
+2023-11-10 13:09:13,926 - INFO - END high_risk_high_need =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
