@@ -48,5 +48,5 @@ To get started with the **High Risk High Need** solution repository, follow thes
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](high_risk_high_need.png)  <br>![additional_image](pandas.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](high_risk_high_need.png)  <br>![additional_image](pandas.png)  <br>
     
