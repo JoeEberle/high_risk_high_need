@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # High Risk High Need - Automates triage of high risk - high need patients 
 Automates triage of high risk - high need patients 
 
@@ -9,8 +11,6 @@ Welcome to the solution **High Risk High Need** - an example for your projects
 Automates triage of high risk - high need patients 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
