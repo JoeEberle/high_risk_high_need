@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# High Risk High Need - Automates triage of high risk - high need patients 
-Automates triage of high risk - high need patients 
-
-![Image image_filename](code.png)
-
 ## Overview of High Risk - High Need solution
 Tracking **high-risk, high-need patients** is crucial for **proactive healthcare management**, as it allows healthcare providers to intervene early and prevent adverse health outcomes. Rapid notification of their doctors in the event of a medical emergency enables timely interventions, ensuring patients receive the critical care they need, **potentially saving lives** and **improving overall health outcomes**.
 
@@ -34,45 +27,3 @@ The implementation of a **high risk high need patient solution** can lead to **s
 In conclusion, a high risk high need patient solution is a **valuable tool** for **healthcare providers** and **administrators**. It streamlines the process of identifying and managing high-need patients, resulting in significant time savings, improved patient care, and efficient resource utilization.
 
 
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **High Risk High Need** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
-    
-## Deliverables or Figures
- ![additional_image](high_risk_high_need.png)  <br>![additional_image](high_risk_high_need_II.png)  <br>![additional_image](pandas.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
