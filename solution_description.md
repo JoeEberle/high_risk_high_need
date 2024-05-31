@@ -9,6 +9,11 @@ A **high risk high need patient solution** offers a data profiling method to ide
 
 This solution significantly enhances **provider communication** and **patient triage**, allowing healthcare enterprises to focus on patients with the highest needs or risks.
 
+## Enhanced Security and Privacy for Patients
+1. Using **automated patient attribution** helps ensure that patients are attributed to the write providers and that no sensitive patient information gets routed to the wrong doctors.
+2. The solution is "extensible" to check **current providers Rosters**, **Validate providers NPI**, and generate **secure emails**. 
+3. Even the most diligent administrators can make manual mistakes - automation helps **mitigate these manual entry risks** . 
+
 ## Who Can Use High Risk High Need Patient Solutions?
 1. **Healthcare Providers:** Doctors, nurses, and care coordinators can use this solution to quickly identify and prioritize high-need patients, ensuring they receive timely and appropriate care.
 2. **Healthcare Administrators:** Administrators can leverage this tool to allocate resources more effectively, ensuring that high-risk patients are matched with the most suitable healthcare providers.
