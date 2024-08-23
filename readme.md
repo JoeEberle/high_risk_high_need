@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# High Risk High Need - Automates triage of high risk - high need patients 
-Automates triage of high risk - high need patients 
+# High Risk High Need - nan
+nan
 
 ![Image image_filename](code.png)
 
