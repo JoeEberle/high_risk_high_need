@@ -69,11 +69,8 @@ To get started with the **High Risk High Need** solution repository, follow thes
  ![additional_image](high_risk_high_need.png)  <br>![additional_image](high_risk_high_need_II.png)  <br>![additional_image](pandas.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
