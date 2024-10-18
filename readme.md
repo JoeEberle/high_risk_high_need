@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# High Risk High Need - high_risk_high_need
-high_risk_high_need
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# High Risk High Need - high_risk_high_need![Image image_filename](code.png)
 ## Overview of High Risk - High Need solution
 Tracking **high-risk, high-need patients** is crucial for **proactive healthcare management**, as it allows healthcare providers to intervene early and prevent adverse health outcomes. Rapid notification of their doctors in the event of a medical emergency enables timely interventions, ensuring patients receive the critical care they need, **potentially saving lives** and **improving overall health outcomes**.
 
@@ -39,9 +32,7 @@ The implementation of a **high risk high need patient solution** can lead to **s
 In conclusion, a high risk high need patient solution is a **valuable tool** for **healthcare providers** and **administrators**. It streamlines the process of identifying and managing high-need patients, resulting in significant time savings, improved patient care, and efficient resource utilization.
 
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **High Risk High Need** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -56,6 +47,9 @@ To get started with the **High Risk High Need** solution repository, follow thes
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -65,13 +59,11 @@ To get started with the **High Risk High Need** solution repository, follow thes
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](high_risk_high_need.png)  <br>![additional_image](high_risk_high_need_II.png)  <br>![additional_image](pandas.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
