@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # High Risk High Need 
-    ## high_risk_high_need
+    
+# High Risk High Need 
+
+## high_risk_high_need
+
     ![Image image_filename](code.png)
 ## Overview of High Risk - High Need solution
 Tracking **high-risk, high-need patients** is crucial for **proactive healthcare management**, as it allows healthcare providers to intervene early and prevent adverse health outcomes. Rapid notification of their doctors in the event of a medical emergency enables timely interventions, ensuring patients receive the critical care they need, **potentially saving lives** and **improving overall health outcomes**.
@@ -55,9 +58,9 @@ To get started with the **High Risk High Need** solution repository, follow thes
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **High Risk High Need** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -67,6 +70,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](high_risk_high_need.png)  <br>![additional_image](high_risk_high_need_II.png)  <br>![additional_image](pandas.png)  <br>
