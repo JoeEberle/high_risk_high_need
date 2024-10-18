@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# High Risk High Need - high_risk_high_need![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # High Risk High Need 
+    ## high_risk_high_need
+    ![Image image_filename](code.png)
 ## Overview of High Risk - High Need solution
 Tracking **high-risk, high-need patients** is crucial for **proactive healthcare management**, as it allows healthcare providers to intervene early and prevent adverse health outcomes. Rapid notification of their doctors in the event of a medical emergency enables timely interventions, ensuring patients receive the critical care they need, **potentially saving lives** and **improving overall health outcomes**.
 
@@ -42,12 +45,15 @@ To get started with the **High Risk High Need** solution repository, follow thes
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
