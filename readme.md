@@ -32,7 +32,7 @@ The implementation of a **high risk high need patient solution** can lead to **s
 In conclusion, a high risk high need patient solution is a **valuable tool** for **healthcare providers** and **administrators**. It streamlines the process of identifying and managing high-need patients, resulting in significant time savings, improved patient care, and efficient resource utilization.
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
