@@ -4,7 +4,25 @@
 
 ## high_risk_high_need
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Overview of High Risk - High Need solution
 Tracking **high-risk, high-need patients** is crucial for **proactive healthcare management**, as it allows healthcare providers to intervene early and prevent adverse health outcomes. Rapid notification of their doctors in the event of a medical emergency enables timely interventions, ensuring patients receive the critical care they need, **potentially saving lives** and **improving overall health outcomes**.
 
@@ -38,7 +56,13 @@ The implementation of a **high risk high need patient solution** can lead to **s
 In conclusion, a high risk high need patient solution is a **valuable tool** for **healthcare providers** and **administrators**. It streamlines the process of identifying and managing high-need patients, resulting in significant time savings, improved patient care, and efficient resource utilization.
 
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
